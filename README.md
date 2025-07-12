@@ -69,8 +69,11 @@
 🤝 Let's Connect
 ```
 
-<p align="center"> <a href="https://linkedin.com/in/el-moufaddal-maadi" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:maadimfdal@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://twitter.com/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=Mfdalmaadi&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views"> </p><p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200">
+<p align="center"> <a href="https://linkedin.com/in/el-moufaddal-maadi" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:maadimfdal@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://twitter.com/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=Mfdalmaadi&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views">
+
+<p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ1h4LhXG8/giphy.gif" width="200">
-</p> 
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" alt="Knight fighting">
+  <img src="https://media.giphy.com/media/3o7TKsQja0AQ9ONkGQ/giphy.gif" width="200" alt="Sword clash">
+</p>
+
