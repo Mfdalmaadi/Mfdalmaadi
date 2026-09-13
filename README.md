@@ -2,7 +2,7 @@
 <h3 align="center">⚡ Full Stack Developer | 🎨 UI/UX Enthusiast | 🏠 From Morocco</h3>
 
 <p align="center">
-  <a href="https://mfdaldev.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://mfdal-os.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:maadimfdal@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/el-moufaddal-maadi" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/Mfdalmaadi?tab=repositories" target="_blank">📂 Projects</a>
@@ -31,6 +31,8 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![JAVA]([https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&labelColor=ED8B00&logo=java&color=808080%5BJava))
+![SPRING BOOT]([https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white))
 
 **🗃️ Databases**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -63,8 +65,7 @@
 ### 🎯 Currently Focusing On
 
 ```text
-🌱 Learning: Advanced React Patterns
-🔭 Working on: A full-stack e-commerce platform
+🌱 Learning: Design Patterns
 👯 Looking to collaborate: Open source projects
 🤝 Let's Connect
 ```
